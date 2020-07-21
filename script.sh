@@ -5,3 +5,4 @@ free -m
 lsblk
 echo "testing"
 #Author:Shadadi
+echo " test 2"
