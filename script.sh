@@ -10,3 +10,4 @@ free -m
 lsblk
 nproc
 cat /etc/*release
+uname -r
